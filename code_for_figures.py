@@ -156,13 +156,10 @@ built to test my solutions for all above functions.
 # plt.xlim([0.0,10])
 # plt.ylim([0,50])
 # plt.scatter(3,18,c='black')
-#plt.scatter(2,8,c='black')
-#plt.scatter(1.329,10,c='black')
-#plt.scatter(4.0375,10,c='black')
-#plt.vlines(1,ymin=0,ymax=50,colors='green')
 #plt.vlines(3,ymin=0,ymax=(17+(7/9)),colors='red',linestyles='--')
 #plt.hlines(17+(7/9),xmin=0,xmax=3,colors='red',linestyles='--')
 #plt.hlines(0,xmin=0,xmax=1,colors='blue')#,linestyles='--')
+#plt.title("Testing Function Accuracy Using Figure 2.2",size="x-large")
 # print(new_fun_for_fig(3,10))
 
 """
